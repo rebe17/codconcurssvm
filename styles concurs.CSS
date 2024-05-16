@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+
+
+}
+.cuprins{
+    background-color: #82CAFF;
+}
+.ofertaeducationala{
+    font-size: larger;
+    font-family: sans-serif;
+}
+.textoferta{
+    font-size: large;
+}
+.cluburilista{
+    font-size: large;
+}
+.orar{
+    font-size: x-large;
+}
+.burse{
+    font-size: large;
+}
+.catedra{
+    display:flex;
+    font-size: large;
+}
+.contact{
+    font-size: x-large;
+}
+.proiecte{
+    font-size: large;
+}
